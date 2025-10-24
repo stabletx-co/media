@@ -1,0 +1,7 @@
+---
+name: Preview Build
+command: npm run preview
+tags:
+  - preview
+  - production
+description: Preview your build locally before deploying

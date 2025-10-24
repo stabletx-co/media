@@ -1,0 +1,7 @@
+---
+name: Build Production
+command: npm run build
+tags:
+  - build
+  - production
+description: Build your production site to ./dist/

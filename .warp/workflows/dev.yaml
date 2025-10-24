@@ -1,0 +1,7 @@
+---
+name: Start Dev Server
+command: npm run dev
+tags:
+  - development
+  - server
+description: Starts the Astro development server on localhost:4321

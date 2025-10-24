@@ -1,0 +1,8 @@
+---
+name: Astro Check
+command: npm run astro check
+tags:
+  - lint
+  - typecheck
+  - validation
+description: Run Astro diagnostics to check for errors

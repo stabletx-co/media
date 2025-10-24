@@ -1,0 +1,32 @@
+# Warp AI Context for davidmesa.co
+
+This is an Astro static site project built with TypeScript.
+
+## Project Structure
+- `/src/pages/` - Astro pages that become routes
+- `/src/components/` - Reusable Astro components
+- `/src/layouts/` - Layout templates
+- `/src/assets/` - Images and static assets
+- `/public/` - Static files served directly
+- `/dist/` - Production build output (generated)
+
+## Tech Stack
+- **Framework**: Astro 5.15.1
+- **Language**: TypeScript (strict mode)
+- **Package Manager**: npm
+
+## Development Commands
+- `npm run dev` - Start dev server at localhost:4321
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build locally
+- `npm run astro check` - Run diagnostics and type checking
+
+## Key Files
+- `astro.config.mjs` - Astro configuration
+- `tsconfig.json` - TypeScript configuration (extends astro/tsconfigs/strict)
+- `package.json` - Project dependencies and scripts
+
+## Notes
+- Dev server runs on port 4321 by default
+- Production builds go to `./dist/` directory
+- Using Astro's strict TypeScript config
